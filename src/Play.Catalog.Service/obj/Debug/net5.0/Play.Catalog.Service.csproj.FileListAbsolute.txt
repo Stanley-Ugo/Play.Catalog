@@ -31,3 +31,12 @@ C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Serv
 C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
 C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
 C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
