@@ -40,3 +40,5 @@ C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Serv
 C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
 C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
 C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\MicroserviceProjects\Play-Catalog\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Common.dll
