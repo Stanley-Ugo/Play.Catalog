@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {}
+    "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {
+    "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
-        "projectName": "Play.Common",
-        "projectPath": "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+        "projectUniqueName": "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+        "projectName": "Play.Inventory.Service",
+        "projectPath": "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\Play.Common\\src\\Play.Common\\obj\\",
+        "outputPath": "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,21 +44,13 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.Extensions.Configuration": {
+            "Play.Common": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[1.0.0, )"
             },
-            "Microsoft.Extensions.Configuration.Binder": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
-            },
-            "Microsoft.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[5.0.1, )"
-            },
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.11.6, )"
+              "version": "[5.6.3, )"
             }
           },
           "imports": [
@@ -73,6 +65,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
