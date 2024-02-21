@@ -107,17 +107,13 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "MassTransit.AspNetCore": {
+            "Play.Catalog.Contracts": {
               "target": "Package",
-              "version": "[7.1.3, )"
-            },
-            "MassTransit.RabbitMQ": {
-              "target": "Package",
-              "version": "[7.1.3, )"
+              "version": "[1.0.0, )"
             },
             "Play.Common": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[1.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
